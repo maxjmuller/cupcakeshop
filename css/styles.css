@@ -30,10 +30,12 @@ p.footer {
 }
 
 .sidebar {
-  float: left;
+  float:left;
   width: 30%;
   background-color: grey;
-  padding: 10px;
+  padding: 0 10px 0 10px;
+  border: 3px solid green;
+  margin: 0 12px 12px 0;
 }
 
 img.illustration {

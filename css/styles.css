@@ -1,0 +1,13 @@
+p.footer {
+  font-style: italic;
+  text-align: center;
+}
+
+.flashy {
+  font-style: italic;
+  color: #ff0000;
+}
+
+.best {
+  font-weight: bold;
+}

@@ -11,3 +11,20 @@ p.footer {
 .best {
   font-weight: bold;
 }
+
+.history {
+  color: #0000ff;
+}
+
+.theory {
+  color: #ff0000;
+}
+
+.emphasis {
+  font-style: italic;
+}
+
+.opening {
+  font-weight: bold;
+  font-size: 18px
+}
